@@ -1,0 +1,49 @@
+c:\users\zeref weismann\documents\visual studio 2015\Projects\kasir_lks\kasir_lks\bin\Debug\kasir_lks.exe
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\bin\Debug\kasir_lks.exe.config
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\bin\Debug\MySql.Data.dll
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\bin\Debug\MySql.Data.xml
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Barang.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Costumer.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.DialogBarang.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.DialogPelanggan.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Eprofile.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Login.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.MasterMenu.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Pembelian.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Penjualan.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Properties.Resources.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Supplier.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.user.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.csproj.GenerateResource.Cache
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.exe
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.pdb
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\bin\Debug\kasir_lks.pdb
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.csprojResolveAssemblyReference.cache
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.DBarangbeli.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.dialongsupplier.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.csproj.ResolveComReference.cache
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.l_jualan.resources
+C:\Users\Zeref Weismann\Documents\Visual Studio 2015\Projects\kasir_lks\kasir_lks\obj\Debug\kasir_lks.printKwitansi.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.csproj.AssemblyReference.cache
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.csproj.SuggestedBindingRedirects.cache
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.csproj.ResolveComReference.cache
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Barang.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Costumer.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.DBarangbeli.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.DialogBarang.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.DialogPelanggan.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.dialongsupplier.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Eprofile.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Login.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.l_jualan.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.MasterMenu.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Pembelian.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Penjualan.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.printKwitansi.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Properties.Resources.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.Supplier.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.user.resources
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.csproj.GenerateResource.cache
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.csproj.CoreCompileInputs.cache
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.exe
+C:\Users\REZA SAPUTRA R\Dropbox\My PC (LAPTOP-3GR7QM9B)\Downloads\Compressed\Csharp-kasir-master\kasir_lks\obj\Debug\kasir_lks.pdb
